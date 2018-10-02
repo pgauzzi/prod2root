@@ -5,7 +5,10 @@ README
 *.hbook
 *.o
 *.f
-ref/sample_bj.kloe
 *~
 *.cdf
 paw*
+ref/OutputVerifier/trash
+ref/OutputVerifier/out
+ref/sample_bj.kloe
+ref/BlockToRootParser/out
